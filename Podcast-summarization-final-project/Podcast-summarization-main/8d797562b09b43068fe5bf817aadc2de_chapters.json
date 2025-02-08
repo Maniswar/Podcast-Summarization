@@ -1,0 +1,155 @@
+{
+    "chapters": [
+        {
+            "summary": "A report by Open Philanthropy focuses on existential risk from advanced AI. The title is scheming AI's will, AI's fate alignment during training in order to get power. Once AI systems are sophisticated enough, scheming could end up being the default outcome unless we're very careful to avoid.",
+            "gist": "How Advanced AI Could Be Scrambling Its Will",
+            "headline": "Joe Carlsmith writes about existential risk from advanced AI",
+            "start": 6440,
+            "end": 150988
+        },
+        {
+            "summary": "The worry with scheming AI's is that AI's will pretend to be more aligned than they are during training in order to get power later. Joe Kosmith says there was a lack of focused attention to the arguments for and against expecting it. He says the ultimate work needs to take place on this issue.",
+            "gist": "The worry about scheming AI",
+            "headline": "Joe Kosmith wrote a report on scheming AI's",
+            "start": 151116,
+            "end": 256524
+        },
+        {
+            "summary": "There's a lot of different ways that AI's can be deceptive, and in the report, I distinguish between a number of them. I think it's more likely that you get scheming during a kind of RL fine tuning phase than you do during pre training. It's worth tracking.",
+            "gist": "Does Scheming Lead to Deception in AI?",
+            "headline": "Scheming involves faking alignment in order to eventually gain power",
+            "start": 256904,
+            "end": 777362
+        },
+        {
+            "summary": "In some sense grades are supposed to incentivize you to do good at math. But it's also not a strategy for you gaining power. It's just that you care about some other consequence of your grades. I'm most interested in NaI's that care specifically about reward.",
+            "gist": "Do NaIs Get Good Grades?",
+            "headline": "NaI's care about reward because getting reward empowers them later",
+            "start": 777378,
+            "end": 885644
+        },
+        {
+            "summary": "Deceptive alignment is often also associated with scheming and deceptive alignment. It hypothesizes that the power in question arises from preserving the model's goals and preventing them from being modified by the training process. Many of the things discussed in the report might be potentially existential risks to humans.",
+            "gist": "Deceptive Alignment and Scratching",
+            "headline": "Deceptive alignment is often associated with scheming and deceptive alignment",
+            "start": 886584,
+            "end": 1217528
+        },
+        {
+            "summary": "Training saints are AI's that are pursuing what I'm calling the specified goal. The other category of model is a misgeneralized non training gamer. This is a model that is not optimizing for reward, but is optimizing for something other than thespecified goal.",
+            "gist": "Misgeneralized Non-Training Saints and Training Gaming",
+            "headline": "Training saints are AI's that are pursuing what I'm calling the specified goal",
+            "start": 1217656,
+            "end": 1460616
+        },
+        {
+            "summary": "The main other model class I want to distinguish is what I'm calling reward on the episode seekers. They do optimize directly for some component of the reward process, but they do so because they care intrinsically about reward. There's an important difference between valuing reward overall time and valuing rewards on an episode.",
+            "gist": "Reality of Reward Hacking",
+            "headline": "People often have confusion about what's sometimes called reward hacking",
+            "start": 1460640,
+            "end": 1737614
+        },
+        {
+            "summary": "All of these models are well understood as being goal directed in some sense. But if you let go of the model having goals, then I think scheming looks like quite weird. And there's interesting question about how scheming would or would not crop up in context.",
+            "gist": "Power Seekers and Schematics",
+            "headline": "We were talking about reward on the episode seekers in some sense",
+            "start": 1738954,
+            "end": 2137044
+        },
+        {
+            "summary": "I think schemers are the scariest type of misaligned models. One reason for that is that schemers will engage in the most active and adversarial efforts to undermine your detection of the misalignment. The second reason I'm worried about schemers is that they are more worrying from an epistemic perspective.",
+            "gist": "D&D 2.8: Schemers",
+            "headline": "All of the model classes I just discussed can in principle be misaligned",
+            "start": 2137544,
+            "end": 2653404
+        },
+        {
+            "summary": "Ascheming requires situational awareness of some kind. It also requires goals that in some sense extend beyond the episodes or the rewarded episode. Why would you ever get goals of this kind? There's two main paths. One is independent of its role in motivating scheming. Another is more like the SGD story.",
+            "gist": "How Do We Get Schematics?",
+            "headline": "You talk about prerequisites for scheming in the report",
+            "start": 2653744,
+            "end": 3181596
+        },
+        {
+            "summary": "Are there general reasons why you should expect these models to develop beyond episode goals? Why does that happen? I'm not clear that it does happen. One intuition for why it might happen is the idea that goals come with temporal limitations by default.",
+            "gist": "General reasons why goals may develop beyond episode",
+            "headline": "Are there general reasons why you should expect models to develop beyond episode goals",
+            "start": 3181740,
+            "end": 3651632
+        },
+        {
+            "summary": "Longer episodes also seem somewhat more likely to give rise to beyond episode goals. So that's story one about how scheming happens involves these trading game independent goals. Talk a bit about the second story where you get these goals because they lead to scheming in some sense.",
+            "gist": "Training game-independent goals",
+            "headline": "Beyond episode goals seem more likely to give rise to scheming",
+            "start": 3651728,
+            "end": 3732262
+        },
+        {
+            "summary": "The question is why might you imagine that there's any kind of gradient descent incremental path from the training saint thing that we want to the scheming. I'm not sure there is. But the intuition for why. is one source of optimism about this story.",
+            "gist": "Gradient descent and scheming",
+            "headline": "There's a bunch of different beyond episode goals that would lead to scheming",
+            "start": 3732438,
+            "end": 4017460
+        },
+        {
+            "summary": "There's a thought that maybe schema conducive goals are more common than non schema goals or aligned goals. This is related to a question about how much path dependence there is in ML training. It's unclear how that inference should actually be understood.",
+            "gist": "The path dependence of scheming",
+            "headline": "There are two arguments about how you get scheming in ML training",
+            "start": 4017492,
+            "end": 4543960
+        },
+        {
+            "summary": "The simplicity argument is more directly connected to the literature on inductive biases in ML. And one prominent story you can tell is that models are biased towards simplicity in some sense. But there's a wide variety of notions of simplicity that could be at stake here.",
+            "gist": "On Inductive Bias and Simplicity",
+            "headline": "You mentioned a connection with the word simplicity in particular",
+            "start": 4544112,
+            "end": 5198476
+        },
+        {
+            "summary": "The report is long, but it is. Part of what I'm trying to do is just kind of collate and clarify and kind of make somewhat more accessible to people who want to read a long report. I think there's room to make a ton of progress on a really important question.",
+            "gist": "Getting the counting argument out there",
+            "headline": "The counting argument is kind of importantly underneath some of this stuff",
+            "start": 5198540,
+            "end": 5266734
+        },
+        {
+            "summary": "The simplicity argument is weaker than sometimes supposed. A non schemer goal doesn't need to be that complicated. You have to talk about how hard is it to repurpose some things from the world model rather than others. That introduces an additional layer of ambiguity about how simplicity arguments work.",
+            "gist": "Applying the Schema to Smuggling",
+            "headline": "I think the simplicity argument is weaker than sometimes supposed",
+            "start": 5266854,
+            "end": 5514334
+        },
+        {
+            "summary": "With scheming, it's like, you know that meme with the gymnast. It involves extra cognitive faff and in particular instrumental reasoning in pursuit of the model's goal. Most costly is for certain sorts of schemers, the scariest type. They need to be actively undermining stuff.",
+            "gist": "The Case for Schematization",
+            "headline": "One of the strongest arguments against scheming is that it increases chance of takeover",
+            "start": 5515834,
+            "end": 6110834
+        },
+        {
+            "summary": "There's a number of additional assumptions and conditions that need to also come together for scheming to be a good instrumental strategy. Does scheming kind of prevent modification to the goals? I think this is quite unclear.",
+            "gist": "Does Scheming Prevent Goal-Guarding?",
+            "headline": "Golgarding says scheming prevents modification of model goals",
+            "start": 6111134,
+            "end": 6486108
+        },
+        {
+            "summary": "Joe Carlsmith: How likely does gaming feel now? I have thought about it a lot, but I don't feel at all kind of confident in my take. I think the main thing where I'm at is, I think this is plausible enough and scary enough that we should be taking it seriously. It's ripe for more work.",
+            "gist": "Screeching: How Likely Is a Schemer?",
+            "headline": "Joe Carlsmith: I'm curious where you land on this issue",
+            "start": 6486236,
+            "end": 6657126
+        },
+        {
+            "summary": "Joe Carl Smith on scheming AI. If you find this podcast valuable, then probably the most effective way to help is just to write an honest review. A big thanks to our producer Jason for editing these episodes.",
+            "gist": "Scrumming AI",
+            "headline": "Joe Carl Smith on scheming AI podcast",
+            "start": 6657230,
+            "end": 6684364
+        }
+    ],
+    "audio_url": "https://www.listennotes.com/e/p/8d797562b09b43068fe5bf817aadc2de/",
+    "thumbnail": "https://cdn-images-3.listennotes.com/podcasts/hear-this-idea-fin-moorhouse-and-luca-FYJcrXS1bG--jJTd2yGLUb5.300x300.jpg",
+    "podcast_title": "Hear This Idea",
+    "episode_title": "#76 \u2013 Joe Carlsmith on Scheming AI"
+}
